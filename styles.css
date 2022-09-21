@@ -110,19 +110,19 @@ section ul li:hover {
 .movie-list img {
     border-radius: 8px;
     border: 1px solid #555555;
-    width: 100px;
+    width: 90%;
 }
 
 .series-list img {
     border-radius: 8px;
     border: 1px solid #555555;
-    width: 100px;
+    width: 90%;
 }
 
 .anime-list img {
     border-radius: 8px;
     border: 1px solid #555555;
-    width: 100px;
+    width: 90%;
 }
 
 /*Animações*/
@@ -148,4 +148,13 @@ section ul li:hover {
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+/* Swiper */
+section {
+    overflow: hidden;
+}
+section ul {
+    flex-wrap: nowrap;
+    gap: 0;
 }

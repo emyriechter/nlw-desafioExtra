@@ -16,3 +16,4 @@ Construído no Next Level Week (NLW)
 - Git e Github
 
 
+By Emelyne Riechter 🖤
